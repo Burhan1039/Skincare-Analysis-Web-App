@@ -2,7 +2,7 @@
 
 An AI-powered skin analysis app for general users.
 
-- Frontend: Next.js (upload + questionnaire + personalized results)
+- Frontend: Next.js (upload Face Photo + questionnaire + personalized results)
 - Backend: FastAPI (face detection + skin signal extraction + recommendation engine)
 - Database: SQLite (stores analysis history)
 
