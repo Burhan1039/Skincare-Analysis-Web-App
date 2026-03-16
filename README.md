@@ -56,5 +56,4 @@ Returns:
 - Add dermatologist-reviewed logic and/or model APIs before production use.
 - App includes a medical disclaimer in results.
 
-## Link to the Web Application:
-https://b178dd16-051e-4939-b8cb-0b73724b05ca-00-27hgxe5oyh7o8.janeway.replit.dev/
+
